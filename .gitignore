@@ -1,0 +1,31 @@
+# Development artifacts
+remote.py
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Internal planning docs
+docs/
+plan/
+.claude/
+
+# PDFs and binaries
+*.pdf
+*.exe
+*.zip
+*.msi
+
+# Exports and logs
+*.csv
+*.xlsx
+*.log
+
+# Secrets / config with real hostnames
+targets.json
+targets.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
