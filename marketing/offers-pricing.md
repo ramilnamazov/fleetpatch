@@ -42,5 +42,21 @@
   fast 24–48h turnaround as the selling point.
 - Add **inclusions** to every existing package.
 
-_Next pricing decision needed from you: do Sports & Events stay as offers, or
-do we focus the brand on portraits/family + branding + real estate?_
+## ✅ Decisions (2026-06-20)
+
+- **Sports stays** as a core offer.
+- **Pricing is variable**, not flat — it depends on **hours booked** and/or
+  **number of edited photos** the client wants. The "from $X" on the site is the
+  entry point; real quotes scale up from there.
+
+### What this means for the system
+- Each service page should show **"from $X"** + a short note like _"final price
+  depends on hours and number of edited images — book a free consult for a
+  quote."_ This sets expectations and still pulls people into the funnel.
+- We should build a simple **rate sheet** (internal) so quoting is consistent:
+  e.g. base session → +$ per extra hour → +$ per extra edited photo. I'll draft
+  this once you give me the rough add-on numbers (e.g. "extra hour = $___,
+  extra 10 edited photos = $___").
+
+_Next input needed: do you want me to draft Branding and Real Estate packages,
+and the add-on rate sheet above?_
